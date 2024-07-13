@@ -1,5 +1,4 @@
-# Documentation ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-)
+# Documentation ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
  
 
  En este apartado se encontraran los archivos de codigo fuernte de la aplicacion web
